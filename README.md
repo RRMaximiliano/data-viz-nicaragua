@@ -4,4 +4,3 @@ This repository contains data and code about different aspects of the social and
 
 ## Air pollution
 ![air-pollution]("/air-pollution/figs/fig1.png")
-
