@@ -14,8 +14,17 @@ I have used `R` for most of the codes. There should be no issue if you want to r
 Currently, this repository contains data on:
 
 ## Air pollution
+
 ![air-pollution](air-pollution/figs/fig1.png)
 
 ## Amnesty
+
 ![amnesty](amnesty/figs/fig1.png)
 
+## Daniel Ortega's speeches
+
+![amnesty](discursos/figs/tf-idf.png)
+
+## Human Rights and Rule of Law: Fragile States Index
+
+![fragile-states](fragile-states/figs/fig1.png)
