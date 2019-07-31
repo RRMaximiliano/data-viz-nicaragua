@@ -1,15 +1,15 @@
 # Data Visualizations: Nicaragua
 
-This repository contains data about socio and economic indicators of the current state of Nicaragua and the Central American region. Please feel free to share it with your friends and colleagues.
+This repository contains data on socio and economic indicators of the current state of Nicaragua and the Central American region. Please feel free to share it with your friends and colleagues.
 
 In this repository, you will find topic-related folders with the following structure:
 
-* Topic I:
-  * data
-  * figs
-  * script
+* `/Topic I`:
+  * `/data`
+  * `/figs`
+  * `/script`
 
-Currently, this repository contains data on:
+Topics covered in this repository:
 
 ## Air pollution
 
