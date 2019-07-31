@@ -9,8 +9,6 @@ In this repository, you will find topic-related folders with the following struc
   * figs
   * script
 
-> I used `R` to produce all these figures.
-
 Currently, this repository contains data on:
 
 ## Air pollution
