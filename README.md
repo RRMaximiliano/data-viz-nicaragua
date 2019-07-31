@@ -63,7 +63,7 @@ Topics covered in this repository:
 
 ![religion-all](religion/figs/fig1.png)
 
-![religion-cat](religion/figs/fig1.png)
+![religion-cat](religion/figs/fig2.png)
 
 ## Remittances
 
