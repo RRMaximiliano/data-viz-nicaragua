@@ -56,6 +56,12 @@ Currently, this repository contains data on:
 
 ![fragile-states](fragile-states/figs/fig1.png)
 
+## Internet and fixed telephone subscriptions
+
+![internet](internet/figs/fig1.png)
+
+![internet](internet/figs/fig2.png)
+
 ## Religion
 
 ![religion-all](religion/figs/fig1.png)
