@@ -37,7 +37,6 @@ Currently, this repository contains data on:
 
 ![foe](v_democracy/figs/foe.png)
 
-
 ## GDP per capita
 
 ![gdp](v_democracy/figs/gdp-ca.gif)
